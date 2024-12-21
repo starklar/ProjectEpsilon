@@ -16,11 +16,11 @@ in their own NSG with their own rules to limit inbound traffic.
 
 
 ## To Run:
-###- If running from cloud shell:
+- If running from cloud shell:
     - Upload project_setup.sh to terminal
     - Run: chmod +x project_setup.sh
     - Run project_setup.sh
-###- If running from elsewhere:
+- If running from elsewhere:
     - Uncomment line 4: #az login
     - Run project_setup.sh
     - Login to your Azure account when prompted
